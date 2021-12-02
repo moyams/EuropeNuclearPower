@@ -1,5 +1,5 @@
-##European Nuclear Power 
-
-####Skye Moya
-______________________________
+European Nuclear Power 
+==============
+Skye Moya
+----------------
 This project references an article that is entitled "Greenwashing or viable solution? Europe has a big decision to make on nuclear power" from CNBC. The article inspired me to create a map that highlights recent European nuclear power data trends. The goal of this map is to inform the public on European nuclear power trends and allow the user to make their own opinion on the "greenwashing" debate covered in the CNBC article. One major objective of this article is to provide a user-centered design. This was accomplished using a bootstrap template create a seamless user-centered design and interviewing users on the application and applying their feedback. Another objective of this map is to accurately portray the share of electricity produced from nuclear power and the nuclear power plant locations. Map data was sourced from PRIS and "Our World in Data" and all data featured is from 2020. The code uses bivariate symbolization to portray power plant locations and choropleth shading. The nuclear power symbols are characterized according to their "status". The statuses featured are active, under construction, and closed. When defining choropleth classes one was made to represent "no data" because not all European nations report their share of electricity produced by nuclear power. 
